@@ -1,0 +1,30 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "recipe_s_title": "Lemon Pineapple Smoothies",
+      "Ingredients": "1 cup pineapple chunks (fresh or frozen)",
+      "instructions": "Hello! Today’s recipe has wonderful sweet, sour, and zesty flavours that are delicious and refreshing. A yummy drink that is great to make as a quick breakfast or mid-day snack and it comes together in just a few minutes.",
+      "cooking_time": "5",
+      "foodimg_url": "https://lh3.googleusercontent.com/d44vKXpDtfvkaMCmQ3UtJRdNT3ltYULOOslFiJfuxoV_DLanPtIZDWGKKSSGMV0gA7eldEvrEWbCAwyO9d7PEg=w1280-h1280-c-rw-v1-e365"
+    },
+    {
+      "recipe_s_title": "Mushroom Herb Gravy",
+      "foodimg_url": "https://lh3.googleusercontent.com/Fx6NWjKEbdA20ndAh9owWWujVPcfVFTnbZ-B3HcSPhveeY7nmkNRasqp2SATqhbwxQRK92VLwvkVTSqRk9MUgw=w640-h640-c-rw-v1-e365",
+      "Ingredients": " 3 Tbsp. butter oil ($0.33)",
+      "instructions": "Delicous!!! I make this and freeze it for when the cravings for gravy hit.",
+      "cooking_time": "30",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

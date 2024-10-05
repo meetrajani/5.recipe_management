@@ -1,0 +1,12 @@
+.home_bg {
+    background-image: url("./images/home_bg.jpg");
+    object-fit: cover;
+}
+
+.card_text {
+  display: -webkit-box;        
+  -webkit-line-clamp: 2;       
+  -webkit-box-orient: vertical; 
+  overflow: hidden;           
+  text-overflow: ellipsis;  
+}
